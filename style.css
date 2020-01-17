@@ -9,11 +9,12 @@ body{
     ;
 }
 .profilebody{
+display: inline-block;
 background-color:rgba(255, 255, 255, 1);
-width:700px;
+margin-top: 6px;
+margin-left: 55px;
+width:75%;
 height:590px;
-margin-top: 20px;
-margin-bottom: 20px;
 }
 #name{
     font-size: 40px;
