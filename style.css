@@ -9,7 +9,7 @@ body{
     ;
 }
 .profilebody{
-background-color: white;
+background-color:rgba(255, 255, 255, 1);
 width:700px;
 height:590px;
 margin-top: 20px;
